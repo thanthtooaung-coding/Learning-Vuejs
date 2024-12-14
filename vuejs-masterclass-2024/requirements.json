@@ -1,0 +1,4 @@
+{
+  "commitMessage": "Add unplugin vue router",
+  "installPackage": "npm install -D unplugin-vue-router"
+}
