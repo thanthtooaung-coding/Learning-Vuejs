@@ -1,4 +1,10 @@
-{
-  "commitMessage": "Add unplugin vue router",
-  "installPackage": "npm install -D unplugin-vue-router"
-}
+[
+  {
+    "commitMessage": "Add unplugin vue router",
+    "installPackage": "npm install -D unplugin-vue-router"
+  },
+  {
+    "commitMessage": "Add supabase client",
+    "installPackage": "npm install @supabase/supabase-js"
+  }
+]
