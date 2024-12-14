@@ -1,8 +1,4 @@
-<script lang="ts">
-export default {
-  name: 'ProjectsView',
-}
-</script>
+<script setup lang="ts"></script>
 
 <template>
   <div>
