@@ -6,5 +6,15 @@
   {
     "commitMessage": "Add supabase client",
     "installPackage": "npm install @supabase/supabase-js"
+  },
+  {
+    "commitMessage": "Add supabase config in package.json and seeding the database",
+    "installPackage": [
+      "npm run supabase:init",
+      "npm run supabase:login",
+      "npm run supabase:link",
+      "npm run db:migrate",
+      "npm run db:reset"
+    ]
   }
 ]
